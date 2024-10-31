@@ -1,0 +1,14 @@
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\bin\Debug\net6.0\Matriz_Lista.exe
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\bin\Debug\net6.0\Matriz_Lista.deps.json
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\bin\Debug\net6.0\Matriz_Lista.runtimeconfig.json
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\bin\Debug\net6.0\Matriz_Lista.dll
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\bin\Debug\net6.0\Matriz_Lista.pdb
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.AssemblyInfoInputs.cache
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.AssemblyInfo.cs
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.csproj.CoreCompileInputs.cache
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.dll
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\refint\Matriz_Lista.dll
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.pdb
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\Matriz_Lista.genruntimeconfig.cache
+C:\Users\15541535654\source\repos\Matriz_Lista\Matriz_Lista\obj\Debug\net6.0\ref\Matriz_Lista.dll
