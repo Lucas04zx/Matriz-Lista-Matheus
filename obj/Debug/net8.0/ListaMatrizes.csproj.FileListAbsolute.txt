@@ -1,0 +1,4 @@
+C:\Users\Windows\Desktop\ListaMatrizes\ListaMatrizes\obj\Debug\net8.0\ListaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\ListaMatrizes\ListaMatrizes\obj\Debug\net8.0\ListaMatrizes.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\ListaMatrizes\ListaMatrizes\obj\Debug\net8.0\ListaMatrizes.AssemblyInfo.cs
+C:\Users\Windows\Desktop\ListaMatrizes\ListaMatrizes\obj\Debug\net8.0\ListaMatrizes.csproj.CoreCompileInputs.cache
